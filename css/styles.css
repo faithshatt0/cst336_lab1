@@ -21,10 +21,6 @@ nav a:hover {
     transition: .9s;
 }
 
-nav a:visited {
-    color: #345487;
-}
-
 #me, #welcomeText {
     float: left;
     width: 40%;
@@ -87,4 +83,8 @@ h1 {
     font-family: 'Montserrat';
     font-size: 4em;
     margin-bottom: 0px;
+}
+
+#current-link a {
+    color: #345487;
 }

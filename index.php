@@ -25,7 +25,7 @@ Personal Portfolio
         
         <nav>
             <hr width="50%" />
-            <a href="index.php">Home</a>
+            <span id="current-link"><a href="index.php">Home</a></span>
             <a href="about.html">About</a>
             <a href="contact.html">Contact</a>
         </nav>
